@@ -26,6 +26,7 @@ module.exports = {
   siteMetadata: {
     title: 'Rui Warrior',
     description: 'web dev portfolio',
-    copyright: 'This website is copyright 2021 rui warrior'
+    copyright: 'This website is copyright 2021 rui warrior',
+    contact: 'richardingwe5@gmail.com'
   }
 };
